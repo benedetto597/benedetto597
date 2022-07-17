@@ -17,7 +17,7 @@
   <h3>
   Fan of 
   </h3>
-  <img src="https://media2.giphy.com/media/Qs1HLJYCcNgUP1Zd5Z/giphy.gif?cid=ecf05e476zxm68gjbxotndeu8v605ro57vh1qtw7kgmjqzb0&rid=giphy.gif&ct=s" width="300"/>
+  <img src="https://media2.giphy.com/media/Qs1HLJYCcNgUP1Zd5Z/giphy.gif?cid=ecf05e476zxm68gjbxotndeu8v605ro57vh1qtw7kgmjqzb0&rid=giphy.gif&ct=s" width="100"/>
 
 </div>
 
