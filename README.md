@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**benedetto597/benedetto597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif?cid=ecf05e479hhmh67mxesgyef5p7ajvznxacxg9e8h9oz560lh&rid=giphy.gif&ct=s" width="100"/>
+</div>
 
 Here are some ideas to get you started:
 
