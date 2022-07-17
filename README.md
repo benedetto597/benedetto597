@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  <table>
-  <tr>
-    <th>Socials</th>
-  </tr>
-  <tr>
+
    <img src="https://media1.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif?cid=790b76116a5e5865f700fd009461e25d1e67cd97c718e6f9&rid=giphy.gif&ct=s" width="300"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/edgar-josu%C3%A9-benedetto-godoy-5b35b695/">
@@ -16,9 +12,6 @@
   <a href="https://www.youtube.com/channel/UCHEi2zZuvTBXJj51q3mmY6A">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  </tr>
-  
-</table>
   
   <br/>
   <img src="https://komarev.com/ghpvc/?username=benedetto597&style=flat-square&color=blue" alt=""/>
