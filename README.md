@@ -15,10 +15,7 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=benedetto597&style=flat-square&color=blue" alt=""/>
   <br/>
-  <h1>
-  Bien o que?
-  <img src="https://media1.giphy.com/media/a1QLZUUtCcgyA/giphy.gif?cid=ecf05e47fr0emi5yqxol5sbvhtelkxflok2fr7ki80w3h9u0&rid=giphy.gif&ct=g" width="30px"/>
-</h1>
+
 </div>
 
 
