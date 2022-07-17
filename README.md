@@ -60,10 +60,10 @@
 
 ### :fire: My Stats :
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benedetto597&layout=compact&theme=dark&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benedetto597&layout=compact&theme=dark&hide_border=true&fire=D7DD12&sideLabels=D7DD12&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benedetto597&theme=dark&hide_border=true&fire=F1E05A&sideLabels=F1E05A)](https://git.io/streak-stats)
 
 </div>
 
