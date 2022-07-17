@@ -42,11 +42,11 @@
 ---
 
 ### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benedetto597&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benedetto597&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benedetto597)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benedetto597&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
