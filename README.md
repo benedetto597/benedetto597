@@ -19,7 +19,8 @@
 </div>
 
 ---
-
+<div id="header" align="center">
+   
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -44,7 +45,7 @@
 ---
 
 ### :fire: My Stats :
-<div id="header" align="center">
+
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benedetto597&show_icons=true&theme=chartreuse-dark)
 
