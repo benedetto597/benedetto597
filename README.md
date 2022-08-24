@@ -67,6 +67,8 @@
 -->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=benedetto597&theme=react-dark&hide_border=true&color=CEC9C9&line=BA060F&point=F1E05A)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=benedetto597&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
